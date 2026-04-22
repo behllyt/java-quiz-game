@@ -1,7 +1,7 @@
 # 📘 Java Quiz Game
 
 ## 🎯 Project Overview
-This is a simple Java console-based quiz game developed as part of **CS 1102 Programming Assignment Unit 1**.  
+This is a simple Java console-based quiz game.  
 The program asks the user multiple-choice questions, evaluates their answers, and displays the final score as a percentage.
 
 ---
